@@ -14,3 +14,13 @@
 ## Projects
 - **GitHub Project** — Maintain a GitHub Profile.
 
+## Hobbies & Extracurriculars
+1. Learning Programming
+   - [x] Started learning C programming
+   - [ ] Build my first small project
+2. Exploring GitHub
+   - [x] Created my first repository
+   - [ ] Learn branching and pull requests properly
+3. Football
+   - [x] Joined FAST Uni team
+   - [ ] Play in a tournament
